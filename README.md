@@ -12,6 +12,15 @@ Hi 👋, I'm MADHUMITHA K
 - Database: [SQL]
 - Tools: [Git / GitHub]
 
+- ## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-lightblue?logo=mysql&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
+
 📂 My Projects
 
 - Project 1 – Web Calculator
