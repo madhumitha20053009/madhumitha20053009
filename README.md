@@ -12,7 +12,7 @@ Hi 👋, I'm MADHUMITHA K
 - Database: [SQL]
 - Tools: [Git / GitHub]
 
- ## 💻 Tech Stack
+ 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
@@ -40,7 +40,7 @@ Hi 👋, I'm MADHUMITHA K
 
   LinkedIn profile link : https://www.linkedin.com/in/madhumitha-k-it
 
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/madhumithaa20053009)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumitha-k-it)
 <!--
 **madhumitha20053009/madhumitha20053009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
