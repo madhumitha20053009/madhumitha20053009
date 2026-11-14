@@ -40,13 +40,7 @@ Hi 👋, I'm MADHUMITHA K
 
   LinkedIn profile link : https://www.linkedin.com/in/madhumitha-k-it
 
-  ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhumitha20053009&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha20053009&layout=compact&theme=tokyonight)
+ 
 <!--
 **madhumitha20053009/madhumitha20053009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
