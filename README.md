@@ -28,6 +28,9 @@ Hi 👋, I'm MADHUMITHA K
 
 ✨ Learning today, building tomorrow!
 
+
+  LinkedIn profile link : https://www.linkedin.com/in/madhumitha-k-it
+
 <!--
 **madhumitha20053009/madhumitha20053009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
